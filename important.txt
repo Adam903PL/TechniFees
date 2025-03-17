@@ -1,0 +1,2 @@
+W aplikacji po wejściu należy przeklikać tabview aby się załadowały (nie wiedziałem jak to naprawić by od początku sie pokazały)
+Przez brak czasu i inne projekty zaliczeniowe nie zrealizowałem niektórych części aplikacji i pare funkcji mogą  nie mieć obsługi błędów
